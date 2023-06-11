@@ -20,5 +20,3 @@
     <img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 </div>
-
-![snake gif](https://github.com/x7junior/x7junior/blob/output/github-contribution-grid-snake.svg)
