@@ -7,6 +7,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/QGuU9J22mg)
 
 ![x7junior GitHub status](https://github-readme-stats.vercel.app/api?username=x7junior&show_icons=true&theme=radical)
+![x7junior GitHub status](https://github-readme-stats.vercel.app/api/top-langs/?username=x7junior&hide_progress=true&theme=radical)
 
 ## Tecnología que uso diariamente.
 
@@ -18,4 +19,8 @@
     <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
     <img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+
+    ![Snake animation](https://github.com/x7junior/x7junior/blob/output/github-contribution-grid-snake.svg)
+
+
 </div>
