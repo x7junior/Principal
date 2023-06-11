@@ -1,4 +1,5 @@
 
+
 ### Olá! Eu sou o jorge fernando. ⭐
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/x7junior)
@@ -19,8 +20,6 @@
     <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
     <img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-
-    ![Snake animation](https://github.com/x7junior/x7junior/blob/output/github-contribution-grid-snake.svg)
-
-
 </div>
+
+![Snake animation](https://github.com/x7junior/x7junior/blob/output/github-contribution-grid-snake.svg)
