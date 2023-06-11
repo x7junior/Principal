@@ -21,4 +21,4 @@
     <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 </div>
 
-[![Generate Datas](https://github.com/x7junior/x7junior/actions/workflows/blank.yml/badge.svg?event=workflow_run)](https://github.com/x7junior/x7junior/actions/workflows/blank.yml)
+![snake gif](https://github.com/x7junior/x7junior/blob/output/github-contribution-grid-snake.svg)
