@@ -2,8 +2,8 @@
 ### Olá! Eu sou o jorge fernando. ⭐
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/x7junior)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/x7junior)
 [![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/youtube_x7junior/)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/x7junior)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/QGuU9J22mg)
 
 ![x7junior GitHub status](https://github-readme-stats.vercel.app/api?username=x7junior&show_icons=true&theme=radical)
@@ -21,4 +21,4 @@
     <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 </div>
 
-![snake animation](https://github.com/<x7junior>/<x7junior>/blob/output/github-contribution-grid-snake2.svg)
+[![Generate Datas](https://github.com/x7junior/x7junior/actions/workflows/blank.yml/badge.svg?event=workflow_run)](https://github.com/x7junior/x7junior/actions/workflows/blank.yml)
